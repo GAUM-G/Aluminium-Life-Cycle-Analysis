@@ -1,7 +1,0 @@
-{
-  "target": "electricity_kwh",
-  "winner": "RandomForest",
-  "rmse": 2.7752289393264133,
-  "r2": 0.8778648660809312,
-  "n_test": 1770
-}

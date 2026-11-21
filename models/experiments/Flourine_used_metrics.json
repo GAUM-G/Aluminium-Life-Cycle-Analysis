@@ -1,7 +1,0 @@
-{
-  "target": "flourine_g",
-  "winner": "RandomForest",
-  "rmse": 6.206320765267232e-05,
-  "r2": 0.99968017512048,
-  "n_test": 850
-}
