@@ -1,0 +1,32 @@
+# Python caches and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# Local credentials and editor settings
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.aws/
+.codex/
+
+# Generated model binaries (recreate with python train_all.py)
+*.pkl
+*.joblib
+
+# Keep the demo baseline CSV and readable evaluation results in Git.
+# Ignore other generated processed-data runs and temporary files.
+/data/processed/*
+!/data/processed/train.csv
+*.csv.tmp.*
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

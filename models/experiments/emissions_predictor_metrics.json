@@ -1,0 +1,7 @@
+{
+  "target": "carbon_kgco2e",
+  "winner": "GradientBoosting",
+  "rmse": 0.8648906944310254,
+  "r2": 0.8439611277225969,
+  "n_test": 1770
+}

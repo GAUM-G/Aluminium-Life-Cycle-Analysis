@@ -1,0 +1,7 @@
+{
+  "target": "wastewater_l",
+  "winner": "RandomForest",
+  "rmse": 5439.648727563015,
+  "r2": 0.8988811314812108,
+  "n_test": 1770
+}

@@ -1,0 +1,17 @@
+{
+  "target": "manufacturing_cost_per_unit",
+  "leaderboard": [
+    {
+      "model_name": "RandomForest",
+      "rmse": 1.3663431867923919,
+      "r2": 0.8090733262127998,
+      "train_seconds": 9.385
+    },
+    {
+      "model_name": "GradientBoosting",
+      "rmse": 1.4022064392178997,
+      "r2": 0.7989190493361501,
+      "train_seconds": 13.062
+    }
+  ]
+}
